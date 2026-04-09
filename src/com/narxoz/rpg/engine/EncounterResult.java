@@ -13,3 +13,5 @@ public class EncounterResult {
     public int getRoundsPlayed() { return roundsPlayed; }
     public int getSurvivingHeroes() { return survivingHeroes; }
 }
+
+  

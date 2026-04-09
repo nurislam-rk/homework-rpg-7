@@ -54,3 +54,4 @@ public class DungeonEngine {
         return new EncounterResult(boss.isAlive() ? false : true, round, survivors);
     }
 }
+
